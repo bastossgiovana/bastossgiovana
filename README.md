@@ -19,10 +19,10 @@
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │  Giovana Bastos                                              │
-│  ─────────────────────────────────────────────────────────── │
+│  ───────────────────────────────────────────────────────────  │
 │  🎓 Information Systems student                              │
 │  💻 Python • SQL • Pandas • Power BI                         │
-│  🗄️ SQLAlchemy • SQLite • Data Modeling                       │
+│  🗄️ SQLAlchemy • SQLite • Data Modeling                     │
 │  📊 Data Analysis • BI • Automation                          │
 │  🌱 Currently learning Django & backend development          │
 │  🌎 English: fluent                                          │
@@ -217,18 +217,6 @@ Projects focused on:
 
 ---
 
-## `> contribution_snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bastossgiovana/bastossgiovana/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
-> **Note:** The Snake animation requires the GitHub Actions workflow included in this profile repository.
-
----
-
 ## `> connect_with_me`
 
 <div align="center">
@@ -259,3 +247,4 @@ Projects focused on:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d1117&section=footer" width="100%" />
 
 </div>
+
