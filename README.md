@@ -105,7 +105,7 @@ End-to-end data project using the Brazilian E-Commerce Public Dataset by Olist.
 
 <br>
 
-<a href="https://github.com/bastossgiovana/ecommerce-analysis">
+<a href="https://github.com/bastossgiovana/olist-ecommerce-analysis"> 
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-ff4da6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
