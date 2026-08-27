@@ -19,10 +19,10 @@
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │  Giovana Bastos                                              │
-│  ───────────────────────────────────────────────────────────  │
+│  ─────────────────────────────────────────────────────────── │
 │  🎓 Information Systems student                              │
 │  💻 Python • SQL • Pandas • Power BI                         │
-│  🗄️ SQLAlchemy • SQLite • Data Modeling                     │
+│  🗄️ SQLAlchemy • SQLite • Data Modeling                       │
 │  📊 Data Analysis • BI • Automation                          │
 │  🌱 Currently learning Django & backend development          │
 │  🌎 English: fluent                                          │
