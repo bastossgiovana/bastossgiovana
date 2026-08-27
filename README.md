@@ -111,6 +111,35 @@ End-to-end data project using the Brazilian E-Commerce Public Dataset by Olist.
 
 </td>
 
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Fuel Prices Dashboard
+
+**Power BI + Power Query + DAX**
+
+Interactive dashboard developed during my Power BI studies using a public dataset of fuel prices across Brazil.
+
+* Data treatment with Power Query
+* DAX measures and calculations
+* Interactive filters and slicers
+* Bookmarks for different views
+* Price analysis by state, brand and fuel
+* Business-oriented data visualization
+
+<br>
+
+<a href="https://github.com/bastossgiovana/power-bi-combustiveis"> 
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-ff4da6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+
 <td width="50%" valign="top">
 
 ### 🎧 Spotify Data Analysis
